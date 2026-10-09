@@ -1,0 +1,14 @@
+
+--- DAILY ACTIVITY REPORT ---
+python practice - 60 minutes - productive
+instragram - 30 minutes - non-productive
+you tube - 45 minutes - non-productive
+
+--- TIME SUMMARY ---
+Total time: 135 minutes
+Productive time: 60 minutes
+Non-productive time: 75 minutes
+
+--- BIGGEST TIME LEAK ---
+Activity: you tube
+Time: 45 minutes
